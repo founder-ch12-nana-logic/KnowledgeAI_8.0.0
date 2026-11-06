@@ -1,0 +1,19 @@
+{
+  "format": "nana.provider-routing/1",
+  "git_blobs": {
+    "README.md": "3a831fbe186a1b22292a9e480b1f3a58129287df",
+    "index.html": "4507712243cece3bc9f253db53f2e8c0a3ed647a",
+    "logos/anthropic.svg": "c917480d32596242d674985ee622d9e7dd51f81a",
+    "logos/openai.svg": "ebbdab0ecf9c844b8c20d25e9115c06f9332d3c2",
+    "provider-brands.mjs": "67fdba8836a49b7d9ea27d2d4f60d3dece6e7654",
+    "providers.json": "ccb9a4c5f3b717f4bf34f55b2ed91252c79aad58"
+  },
+  "sha256": {
+    "README.md": "f707a6947e29545f3dd7319883761cb138c40ca495e556b09c982daec5686d82",
+    "index.html": "b9ba132cc0921632ed9af806d6f446e179d9089363b452a45f2b94180bfb0cf6",
+    "logos/anthropic.svg": "1cc599f6ebce2016dc388cf84e54a52c6b13487655c7e243554d654c7bce1882",
+    "logos/openai.svg": "2b4a04ddc2395b20d168694d3850ce2050a702c4a0cdeb4d8b31b9a970481a8c",
+    "provider-brands.mjs": "6c01d38ec635f023daed9ddce09353903bcbcc2bc19caf763d021997713ad4e5",
+    "providers.json": "752af7d2053ef2f1e8e23e3980165a36897c28d679f28ade032c37a694699e6a"
+  }
+}
